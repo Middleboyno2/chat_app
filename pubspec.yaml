@@ -108,19 +108,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-flutter_native_splash:
-  android: true
-  ios: true
-  web: false
-
-
-  background_image: "assets/background_splash_screen.png"
-  image: "assets/logo.png"
-  branding: "assets/branding.png"
-  branding_mode: bottom
-
-  android_12:
-    color: "#d4e4ed"
-    image: "assets/logo.png"
-    branding: "assets/branding.png"
-#  branding_bottom_padding: 24
